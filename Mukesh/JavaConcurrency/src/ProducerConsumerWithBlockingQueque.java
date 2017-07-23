@@ -6,7 +6,7 @@ import java.util.concurrent.*;
 /**
  * Created by mukesh on 7/23/2017.
  */
-public class ProducerConsumerBlockingQueque {
+public class ProducerConsumerWithBlockingQueque {
 
     static ArrayBlockingQueue queue = new ArrayBlockingQueue<Integer>(50);
 
